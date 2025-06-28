@@ -106,7 +106,8 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smoke2005&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smoke2005&show_icons=true&theme=react" alt="GitHub Stats" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoke2005&layout=compact&theme=react&langs_count=8" alt="Most Used Languages" style="display: inline-block; vertical-align: top;" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smoke2005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 

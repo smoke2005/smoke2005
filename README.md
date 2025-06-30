@@ -20,7 +20,7 @@
 
 <p align="center">
 🎓 Junior, Computer Science & Engineering @ SSN College of Engineering, Chennai<br>
-🚀 Full-stack & AI/ML developer | Hackathon winner | Software and Research intern<br>
+🚀 Full-stack & AI/ML developer | AR/VR Enthusiast| Hackathon winner | Software and Research intern<br>
 🌏 Passionate about building scalable, inclusive and impactful tech<br>
 </p>
 

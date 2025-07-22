@@ -67,7 +67,7 @@
   <a href="https://github.com/smoke2005/url-content-classifier">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smoke2005&repo=url-content-classifier&theme=react" />
   </a>
-  <a href="https://github.com/smoke2005/ShePlays-SheWins">
+  <a href="https://github.com/smoke2005/Gaia-s-Trial-The-Final-Hour">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smoke2005&repo=ShePlays-SheWins&theme=react" />
   </a>
   <a href="https://github.com/smoke2005/pg-chatbot">
